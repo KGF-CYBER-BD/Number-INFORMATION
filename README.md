@@ -1,5 +1,4 @@
 # Number-INFORMATION
-❤️‍🔥 This is a tool to find out the location of a Bangladeshi number for free 💬
 <div align="center">
 
   <!-- TOP HEADER BANNER IMAGE -->
@@ -64,7 +63,7 @@
 ```bash
 pkg update && pkg upgrade -y
 pkg install python git -y
-git clone [https://github.com/KGF-CYBER-BD/Number-INFORMATION.git](https://github.com/KGF-CYBER-BD/Number-INFORMATION.git)
+git clone https://github.com/KGF-CYBER-BD/Number-INFORMATION.git
 cd Number-INFORMATION
 python Number_INFORMATION.py
 ```
