@@ -1,13 +1,15 @@
 # Number-INFORMATION
 ❤️‍🔥 This is a tool to find out the location of a Bangladeshi number for free 💬
 <div align="center">
+<div align="center">
 
   <!-- TOP HEADER BANNER IMAGE -->
   <a href="https://github.com/KGF-CYBER-BD/Number-INFORMATION">
-    <img src="https://github.com/KGF-CYBER-BD/Number-INFORMATION/blob/main/IMG_20260731_031417.png" alt="Number INFORMATION Banner" width="100%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);">
+    <img src="IMG_20260731_031417.png" alt="Number INFORMATION Banner" width="100%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);">
   </a>
 
   <br><br>
+
 
   <!-- MAIN TITLE WITH STYLISH EMOJIS -->
   <h1>💥 🇧🇩 BD  NUMBER Location 🇧🇩 💥</h1>
@@ -66,12 +68,12 @@ pkg install python git -y
 git clone [https://github.com/KGF-CYBER-BD/Number-INFORMATION.git](https://github.com/KGF-CYBER-BD/Number-INFORMATION.git)
 cd Number-INFORMATION
 python Number_INFORMATION.py
-
+```
 <div align="center">
 <table border="1" style="border-collapse: collapse; border-color: #30363d;">
 <tr>
 <td align="center" padding="10px">
-<img src="https://github.com/KGF-CYBER-BD/Number-INFORMATION/blob/main/IMG_20260731_031417.png" width="90%" alt="Tool Banner Screenshot">
+<img src="IMG_20260731_031417.png" alt="Number INFORMATION Banner" width="100%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);">
 
 
 <i><b>Official Terminal Interface</b></i>
