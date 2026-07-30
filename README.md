@@ -1,11 +1,10 @@
 # Number-INFORMATION
 ❤️‍🔥 This is a tool to find out the location of a Bangladeshi number for free 💬
 <div align="center">
-<div align="center">
 
   <!-- TOP HEADER BANNER IMAGE -->
   <a href="https://github.com/KGF-CYBER-BD/Number-INFORMATION">
-    <img src="IMG_20260731_031417.png" alt="Number INFORMATION Banner" width="100%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);">
+    <img src="https://raw.githubusercontent.com/KGF-CYBER-BD/Number-INFORMATION/main/IMG_20260731_031417.png" alt="Number INFORMATION Banner" width="100%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);">
   </a>
 
   <br><br>
@@ -73,7 +72,8 @@ python Number_INFORMATION.py
 <table border="1" style="border-collapse: collapse; border-color: #30363d;">
 <tr>
 <td align="center" padding="10px">
-<img src="IMG_20260731_031417.png" alt="Number INFORMATION Banner" width="100%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);">
+<img src="https://raw.githubusercontent.com/KGF-CYBER-BD/Number-INFORMATION/main/IMG_20260731_031417.png" width="90%" alt="Tool Banner Screenshot">
+
 
 
 <i><b>Official Terminal Interface</b></i>
